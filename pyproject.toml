@@ -16,6 +16,7 @@ scikit-learn = "^0.23.1"
 OSMPythonTools = "^0.2.8"
 notebook = "^6.0.3"
 OSMnx = "^0.13.0"
+tables = "^3.6.1"
 
 [tool.poetry.dev-dependencies]
 ipython = "^7.14.0"
